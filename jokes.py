@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# Jokes.
+
 print('What do you get when you cross a snowman with a vampire?')
 input()
 print('Frostbite!')
