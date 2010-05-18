@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# Jokes.
+# Chapter 5: Jokes.
+# Note: I didn't realize that the kwarg is two single quotes (an empty string, effectively) instead of one double until Al said 'By passing a blank string for...' near the end of the chapter. He might want to clarify this.
 
 print('What do you get when you cross a snowman with a vampire?')
 input()

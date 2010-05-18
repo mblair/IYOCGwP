@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Guess the number game.
+# Chapter 4: Guess the number game.
 
 import random
 

@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-
-# This program says hello and asks for my name.
-# Matt Blair <me@matthewblair.net>
-# 5-11-10 22:17 EST
+# Chapter 3: Hello.
 
 print('Hello world!')
 print('What is your name?')
